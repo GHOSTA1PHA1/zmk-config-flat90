@@ -1,0 +1,8 @@
+file_format: "1"
+id: flat90
+name: flat90
+type: shield
+url: https://github.com/GHOSTA1PHA1/zmk-config-flat90.git
+requires: [pillbug]
+features:
+ 90 - keys

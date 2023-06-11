@@ -1,0 +1,6 @@
+if SHIELD_Flat90
+
+config ZMK_KEYBOARD_NAME
+    default "Flat90"
+
+endif
